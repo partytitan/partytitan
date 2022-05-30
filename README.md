@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Huntjens</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<h3 align="center">A passionate full-stack developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on [Spirebyte](https://github.com/Spirebyte-Project-Management/Spirebyte-Project-Management)
 
